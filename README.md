@@ -28,5 +28,5 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone <[ссылка-на-твой-репозиторий](https://github.com/XID18/FastAPI-user-api>
+git clone <https://github.com/XID18/FastAPI-user-api>
 cd <FastAPI>
